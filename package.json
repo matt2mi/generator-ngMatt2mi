@@ -1,0 +1,11 @@
+{
+  "name": "generator-ngMatt2mi",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.18.7"
+  }
+}
