@@ -1,3 +1,3 @@
 # generator-ngMatt2mi
 
-yo ngMatt2mi <name>
+yo ngMatt2mi name
